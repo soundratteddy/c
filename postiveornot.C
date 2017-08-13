@@ -9,6 +9,6 @@ printf("\nThe given integer is positive");
 else if(a<0)
 printf("\nThe given integer is negetive");
 else
-printf("\nThe given integer is neither positive nor negative");
+printf("\n The given integer is neither positive nor negative");
 }
 
