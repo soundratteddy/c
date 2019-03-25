@@ -2,7 +2,7 @@
 #include<stdlib.h>
 int main()
 {
-int a;
+  int a;
 char n[100];
 scanf("%s",&n);
 a= atoi(n);
